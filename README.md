@@ -6,4 +6,4 @@
       - Jupyter Notebook 
       - Python 3.7.X
 
- - You will utilitize the **'starbucks-menu-nutrition-drinks.csv'** data set.  The .csv file can be downloaded here on Kaggle.   [Kaggle website link] (https://www.kaggle.com/starbucks/starbucks-menu#starbucks_drinkMenu_expanded.csv)
+ - You will utilitize the **'starbucks-menu-nutrition-drinks.csv'** data set.  The .csv file can be downloaded here on Kaggle.   [Kaggle website link](https://www.kaggle.com/starbucks/starbucks-menu#starbucks_drinkMenu_expanded.csv)
